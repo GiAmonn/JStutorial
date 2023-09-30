@@ -56,10 +56,10 @@ console.log(fullText);
 
 10) დაწერეთ პროგრამა სტრიქონის დიდ ასოებზე გადასაყვანად.
 
-let smallText = "I AM SMALL"
-console.log(smallText.toLowerCase())
+let upperText = "i am big"
+console.log(upperText.toUpperCase())
 
 11) დაწერეთ პროგრამა სტრიქონის მცირე ასოზე გადასაყვანად.
 
-let upperText = "i am big"
-console.log(upperText.toUpperCase())
+let smallText = "I AM SMALL"
+console.log(smallText.toLowerCase())
